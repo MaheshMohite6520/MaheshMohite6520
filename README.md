@@ -11,7 +11,7 @@
 - 📫 How to reach me ...
   1] Linkdin : https://www.linkedin.com/in/mahesh-mohite-2aa280230/
   2] G-MAIL : maheshmohite6520@gmail.com
-  3] Replit : https://replit.com/@MaheshMohite
+  3] Replit : [https://replit.com/@MaheshMohite](https://replit.com/@MaheshMohite?path=folder/Java-Script/Exercises)
 
 <!---
 MaheshMohite6520/MaheshMohite6520 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
