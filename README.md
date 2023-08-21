@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mahesh Mohite</h1>
+![github-header-image](https://github.com/MaheshMohite6520/MaheshMohite6520/assets/126685009/6e0417ab-0a29-4d45-8893-21feed8155e4)
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshmohite6520&label=Profile%20views&color=0e75b6&style=flat" alt="maheshmohite6520" /> </p>
