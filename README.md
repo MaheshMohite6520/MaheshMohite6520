@@ -4,13 +4,9 @@
 
 ![DEV2](https://github.com/MaheshMohite6520/MaheshMohite6520/assets/126685009/ef70834f-9409-4a6c-a1f4-ca16ad32e222)
 
-- 🔭 I’m currently working on **Final Year Project**
+- 🔭 I’m currently working on **B.Tech Final Year Project**
 
 - 🌱 I’m currently learning **ReactJS & NodeJS**
-
-- 📫 How to reach me **maheshmohite6520@gmail.com**
-
-- ⚡ Fun fact **I think I'm Funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
