@@ -4,7 +4,7 @@
 
 ![DEV2](https://github.com/MaheshMohite6520/MaheshMohite6520/assets/126685009/ef70834f-9409-4a6c-a1f4-ca16ad32e222)
 
-- 🔭 I’m currently working on **B.Tech Final Year Project**
+- 🔭 I’m currently doing an Internship at **QSPIDERS, Deccan, Pune**
 
 - 🌱 I’m currently learning **JAVA FULL STACK**
 
