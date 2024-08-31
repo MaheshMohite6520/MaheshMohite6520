@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/MaheshMohite6520/MaheshMohite6520/assets/126685009/6e0417ab-0a29-4d45-8893-21feed8155e4)
 
-<h3 align="center">A Passionate Frontend-Developer from Kolhapur, Maharashtra, India.</h3>
+<h3 align="center">A Passionate JAVA FULL STCK Developer from Kolhapur, Maharashtra, India.</h3>
 
 ![DEV2](https://github.com/MaheshMohite6520/MaheshMohite6520/assets/126685009/ef70834f-9409-4a6c-a1f4-ca16ad32e222)
 
