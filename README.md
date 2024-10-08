@@ -1,4 +1,4 @@
-![github-header-image](![github-header-image](https://github.com/user-attachments/assets/61e5cdfe-aa7b-4c2a-8bad-9442844201f2))
+![github-header-image (1)](https://github.com/user-attachments/assets/4640e816-3e89-4a19-95a6-9d60c611c511)
 
 ![DEV2](https://github.com/MaheshMohite6520/MaheshMohite6520/assets/126685009/ef70834f-9409-4a6c-a1f4-ca16ad32e222)
 
