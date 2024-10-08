@@ -37,18 +37,6 @@
 <a href="#" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/ios/50/000000/test.png" alt="manual testing" width="40" height="40"/>
 </a>
-<a href="https://www.oracle.com/java/technologies/java-ee-glance.html" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="j2ee" width="40" height="40"/>
-</a>
-<a href="https://www.oracle.com/java/technologies/jdbc.html" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="jdbc" width="40" height="40"/>
-</a>
-<a href="https://docs.oracle.com/javaee/7/tutorial/servlets.htm" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="servlet" width="40" height="40"/>
-</a>
-<a href="https://www.oracle.com/java/technologies/jspt.html" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="jsp" width="40" height="40"/>
-</a>
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-plain-wordmark.svg" alt="hibernate" width="40" height="40"/>
 </a>
