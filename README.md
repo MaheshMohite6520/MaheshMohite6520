@@ -3,9 +3,9 @@
 ![DEV2](https://github.com/MaheshMohite6520/MaheshMohite6520/assets/126685009/ef70834f-9409-4a6c-a1f4-ca16ad32e222)
 
 # 💫 About Me: 
-**I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 
-**I’m currently learning:**  <br>JAVA Full Stack Development<br><br>💬 
-**Fun fact:**  <br>I love to do Coding.
+**I’m looking to collaborate on:**  <br>Fullstack Projects<br><br>🌱 
+**I’m currently learning:**  <br>Oracle NetSuite<br><br>💬 
+**Fun fact:**  <br>I love to do Solve Problems.
 
 ## 🌐 Connect with me:
 <p align="left">
