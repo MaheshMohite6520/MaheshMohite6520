@@ -1,5 +1,3 @@
-<img src="https://github.com/user-attachments/assets/4640e816-3e89-4a19-95a6-9d60c611c511" width="100%" />
-
 <h1 align="center">Hi 👋, I'm Mahesh Mohite</h1>
 <h3 align="center">Full Stack Developer | Java • JavaScript • SuiteScript | NetSuite Customization & Integrations</h3>
 
