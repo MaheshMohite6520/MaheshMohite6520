@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 💼 Full Stack Developer with strong backend foundations in **Java**
+- 💼 NETSUITE Developer with strong backend foundations in **JavaScript**
 - ⚙️ Building scalable solutions using **SuiteScript & NetSuite**
 - 🔗 Experienced in **REST APIs, Integrations & Business Automation**
 - 🌱 Currently deep-diving into **Oracle NetSuite Architecture & Advanced Customization**
