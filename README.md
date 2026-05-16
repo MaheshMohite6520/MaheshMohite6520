@@ -46,8 +46,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheshmohite6520&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshmohite6520&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manojmohite2002&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojmohite2002&theme=tokyonight" />
 </p>
 
 ---
@@ -57,12 +57,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/maheshmohite6520/" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/u/Mahesh_Mohite/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
-<a href="https://www.hackerrank.com/maheshmohite6520" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
 </a>
 </p>
 
