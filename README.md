@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahesh Mohite</h1>
+<h1 align="center">Hi 👋, I'm Manoj Mohite</h1>
 <h3 align="center">Full Stack Developer | Java • JavaScript • SuiteScript | NetSuite Customization & Integrations</h3>
 
 ---
